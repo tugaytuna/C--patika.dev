@@ -1,0 +1,15 @@
+F:\Development\csharp\git-projects\Csharp-patika.dev\odev2\bin\Debug\net6.0\odev2.exe
+F:\Development\csharp\git-projects\Csharp-patika.dev\odev2\bin\Debug\net6.0\odev2.deps.json
+F:\Development\csharp\git-projects\Csharp-patika.dev\odev2\bin\Debug\net6.0\odev2.runtimeconfig.json
+F:\Development\csharp\git-projects\Csharp-patika.dev\odev2\bin\Debug\net6.0\odev2.dll
+F:\Development\csharp\git-projects\Csharp-patika.dev\odev2\bin\Debug\net6.0\odev2.pdb
+F:\Development\csharp\git-projects\Csharp-patika.dev\odev2\obj\Debug\net6.0\odev2.csproj.AssemblyReference.cache
+F:\Development\csharp\git-projects\Csharp-patika.dev\odev2\obj\Debug\net6.0\odev2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\csharp\git-projects\Csharp-patika.dev\odev2\obj\Debug\net6.0\odev2.AssemblyInfoInputs.cache
+F:\Development\csharp\git-projects\Csharp-patika.dev\odev2\obj\Debug\net6.0\odev2.AssemblyInfo.cs
+F:\Development\csharp\git-projects\Csharp-patika.dev\odev2\obj\Debug\net6.0\odev2.csproj.CoreCompileInputs.cache
+F:\Development\csharp\git-projects\Csharp-patika.dev\odev2\obj\Debug\net6.0\odev2.dll
+F:\Development\csharp\git-projects\Csharp-patika.dev\odev2\obj\Debug\net6.0\refint\odev2.dll
+F:\Development\csharp\git-projects\Csharp-patika.dev\odev2\obj\Debug\net6.0\odev2.pdb
+F:\Development\csharp\git-projects\Csharp-patika.dev\odev2\obj\Debug\net6.0\odev2.genruntimeconfig.cache
+F:\Development\csharp\git-projects\Csharp-patika.dev\odev2\obj\Debug\net6.0\ref\odev2.dll
