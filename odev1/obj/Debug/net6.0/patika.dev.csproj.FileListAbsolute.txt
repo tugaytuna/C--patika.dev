@@ -1,0 +1,15 @@
+F:\Development\csharp\patika.dev\odev1\bin\Debug\net6.0\patika.dev.exe
+F:\Development\csharp\patika.dev\odev1\bin\Debug\net6.0\patika.dev.deps.json
+F:\Development\csharp\patika.dev\odev1\bin\Debug\net6.0\patika.dev.runtimeconfig.json
+F:\Development\csharp\patika.dev\odev1\bin\Debug\net6.0\patika.dev.dll
+F:\Development\csharp\patika.dev\odev1\bin\Debug\net6.0\patika.dev.pdb
+F:\Development\csharp\patika.dev\odev1\obj\Debug\net6.0\patika.dev.csproj.AssemblyReference.cache
+F:\Development\csharp\patika.dev\odev1\obj\Debug\net6.0\patika.dev.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\csharp\patika.dev\odev1\obj\Debug\net6.0\patika.dev.AssemblyInfoInputs.cache
+F:\Development\csharp\patika.dev\odev1\obj\Debug\net6.0\patika.dev.AssemblyInfo.cs
+F:\Development\csharp\patika.dev\odev1\obj\Debug\net6.0\patika.dev.csproj.CoreCompileInputs.cache
+F:\Development\csharp\patika.dev\odev1\obj\Debug\net6.0\patika.dev.dll
+F:\Development\csharp\patika.dev\odev1\obj\Debug\net6.0\refint\patika.dev.dll
+F:\Development\csharp\patika.dev\odev1\obj\Debug\net6.0\patika.dev.pdb
+F:\Development\csharp\patika.dev\odev1\obj\Debug\net6.0\patika.dev.genruntimeconfig.cache
+F:\Development\csharp\patika.dev\odev1\obj\Debug\net6.0\ref\patika.dev.dll
