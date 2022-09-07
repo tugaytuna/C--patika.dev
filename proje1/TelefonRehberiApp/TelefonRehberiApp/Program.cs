@@ -15,10 +15,18 @@ namespace TelefonRehberiApp
             public string telno { get; set; }
         }
 
+        
 
         static void Main(string[] args)
         {
-            Kisiler kisiler = new Kisiler();
+            Kisiler Kisiler = new Kisiler();
+            string _isim;
+            string _soyisim;
+            string _telno;
+            string arama_bilgisi;
+
+            int secenek_int = 0;
+            Kisiler kk = new Kisiler();
             // başlangıç değeri atanması
             List<Kisiler> kisiList = new List<Kisiler>()
             {
@@ -29,53 +37,63 @@ namespace TelefonRehberiApp
                 new Kisiler{isim = "tanju", soyisim = "arda", telno="0542784522"}
             };
 
-            int secenek_int = 0;
-
             Console.WriteLine("Telefon Rehberi Uygulamasına Hoş Geldiniz!");
-
             WelcomeScreen();
-
-           
-
-            switch (secenek_int)
-            {
-                case 1:
-                    savePerson();
-                    break;
-                case 2:
-                    deletePerson();
-                    break;
-                case 3:
-                    updatePerson();
-                    break;
-                case 4:
-                    listPerson();
-                    break;
-                case 5:
-                    searchPerson();
-                    break;
-                default:
-                    Console.WriteLine("Uygun bir değer giriniz.");
-                    break;
-            }
 
 
             void savePerson()
-            { 
-            
-            
-            
-            
-            
-            
+            {
+                Console.WriteLine("İsim:");
+                _isim = Console.ReadLine();
+                Console.WriteLine("Soyisim:");
+                _soyisim = Console.ReadLine();
+                Console.WriteLine("TelNo:");
+                _telno = Console.ReadLine();
+
+                Kisiler yenikisi = new Kisiler();
+                yenikisi.isim = _isim;
+                yenikisi.soyisim = _soyisim;
+                yenikisi.telno = _telno;
+
+                kisiList.Add(yenikisi);
+
+                Console.WriteLine("Kişi kaydı tamamlanmıştır.");
+                WelcomeScreen();
             }
-
             void deletePerson()
-            { }
+            {
+                justSearch();
 
+                Console.WriteLine("Bu kaydı silmek istediğine emin misin? (y/n) {0} {1}",kk.isim,kk.soyisim);
+                if ("y" == Console.ReadLine())
+                {
+                    // delete işlemi
+                    kisiList.Remove(kk);
+                }
+                else if ("n" ==  Console.ReadLine())
+                {
+                    Console.WriteLine("Silmne işlemi iptal edildi.");
+                    Console.WriteLine("Anasayfadan devam edebilirsiniz...");
+                }
+
+
+                WelcomeScreen();
+            }
             void updatePerson()
-            { }
+            {
+                justSearch();
 
+                
+                Console.WriteLine("Yeni telefon numarasını giriniz: ");
+                //update the list
+                kk.telno = Console.ReadLine();
+
+                Console.WriteLine("Güncelleme tamamlanmıştır.");
+                
+
+
+                WelcomeScreen();
+            }
             void listPerson()
             {
                 Console.WriteLine("Kişiler Listesi Sıralanıyor...");
@@ -87,11 +105,20 @@ namespace TelefonRehberiApp
                 Console.WriteLine();
                 WelcomeScreen();
             }
-
             void searchPerson()
-            { }
+            {
+                justSearch();
+                WelcomeScreen();
 
+                //person = PhoneBookDatabase.PhoneList.FirstOrDefault(x => x.FirstName == input2 || x.LastName == input2);
+            }
 
+            void showPerson(Kisiler n)
+            {
+                Console.WriteLine("*******************");
+                Console.WriteLine("Kayıt: İsim: {0}, Soyisim: {1}, Telno: {2}", n.isim, n.soyisim, n.telno);
+                Console.WriteLine("*******************");
+            }
             void WelcomeScreen()
             {
                 Console.WriteLine("1- Telefon Numarası Kaydet");
@@ -110,9 +137,51 @@ namespace TelefonRehberiApp
                 {
                     Console.WriteLine("Lütfen uygun bir değer giriniz!");
                 }
+
+                switch (secenek_int)
+                {
+                    case 1:
+                        savePerson();
+                        break;
+                    case 2:
+                        deletePerson();
+                        break;
+                    case 3:
+                        updatePerson();
+                        break;
+                    case 4:
+                        listPerson();
+                        break;
+                    case 5:
+                        searchPerson();
+                        break;
+                    default:
+                        Console.WriteLine("Uygun bir değer giriniz.");
+                        break;
+                }
+
+
             }
 
+            void justSearch()
+            {
+                Console.WriteLine("**********************************");
+                Console.WriteLine("Lütfen aradığınız kişinin adını ya da soyadını giriniz:");
 
+                arama_bilgisi = Console.ReadLine();
+
+                
+                kk = kisiList.FirstOrDefault(x => x.isim == arama_bilgisi || x.soyisim == arama_bilgisi);
+
+                if (kk == null)
+                {
+                    Console.WriteLine("Kullanıcı bulunamadı! Tekrar deneyiniz!");
+                }
+                else
+                {
+                    showPerson(kk);
+                }
+            }
 
         }
     }
