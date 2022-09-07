@@ -1,0 +1,8 @@
+F:\Development\csharp\git-projects\Csharp-patika.dev\proje1\TelefonRehberiApp\TelefonRehberiApp\bin\Debug\TelefonRehberiApp.exe.config
+F:\Development\csharp\git-projects\Csharp-patika.dev\proje1\TelefonRehberiApp\TelefonRehberiApp\bin\Debug\TelefonRehberiApp.exe
+F:\Development\csharp\git-projects\Csharp-patika.dev\proje1\TelefonRehberiApp\TelefonRehberiApp\bin\Debug\TelefonRehberiApp.pdb
+F:\Development\csharp\git-projects\Csharp-patika.dev\proje1\TelefonRehberiApp\TelefonRehberiApp\obj\Debug\TelefonRehberiApp.csproj.AssemblyReference.cache
+F:\Development\csharp\git-projects\Csharp-patika.dev\proje1\TelefonRehberiApp\TelefonRehberiApp\obj\Debug\TelefonRehberiApp.csproj.SuggestedBindingRedirects.cache
+F:\Development\csharp\git-projects\Csharp-patika.dev\proje1\TelefonRehberiApp\TelefonRehberiApp\obj\Debug\TelefonRehberiApp.csproj.CoreCompileInputs.cache
+F:\Development\csharp\git-projects\Csharp-patika.dev\proje1\TelefonRehberiApp\TelefonRehberiApp\obj\Debug\TelefonRehberiApp.exe
+F:\Development\csharp\git-projects\Csharp-patika.dev\proje1\TelefonRehberiApp\TelefonRehberiApp\obj\Debug\TelefonRehberiApp.pdb
