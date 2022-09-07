@@ -1,0 +1,15 @@
+F:\Development\csharp\git-projects\Csharp-patika.dev\Koleksiyonlar\Koleksiyonlar-Soru-1\bin\Debug\net6.0\Koleksiyonlar-Soru-1.exe
+F:\Development\csharp\git-projects\Csharp-patika.dev\Koleksiyonlar\Koleksiyonlar-Soru-1\bin\Debug\net6.0\Koleksiyonlar-Soru-1.deps.json
+F:\Development\csharp\git-projects\Csharp-patika.dev\Koleksiyonlar\Koleksiyonlar-Soru-1\bin\Debug\net6.0\Koleksiyonlar-Soru-1.runtimeconfig.json
+F:\Development\csharp\git-projects\Csharp-patika.dev\Koleksiyonlar\Koleksiyonlar-Soru-1\bin\Debug\net6.0\Koleksiyonlar-Soru-1.dll
+F:\Development\csharp\git-projects\Csharp-patika.dev\Koleksiyonlar\Koleksiyonlar-Soru-1\bin\Debug\net6.0\Koleksiyonlar-Soru-1.pdb
+F:\Development\csharp\git-projects\Csharp-patika.dev\Koleksiyonlar\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.csproj.AssemblyReference.cache
+F:\Development\csharp\git-projects\Csharp-patika.dev\Koleksiyonlar\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\csharp\git-projects\Csharp-patika.dev\Koleksiyonlar\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.AssemblyInfoInputs.cache
+F:\Development\csharp\git-projects\Csharp-patika.dev\Koleksiyonlar\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.AssemblyInfo.cs
+F:\Development\csharp\git-projects\Csharp-patika.dev\Koleksiyonlar\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.csproj.CoreCompileInputs.cache
+F:\Development\csharp\git-projects\Csharp-patika.dev\Koleksiyonlar\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.dll
+F:\Development\csharp\git-projects\Csharp-patika.dev\Koleksiyonlar\Koleksiyonlar-Soru-1\obj\Debug\net6.0\refint\Koleksiyonlar-Soru-1.dll
+F:\Development\csharp\git-projects\Csharp-patika.dev\Koleksiyonlar\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.pdb
+F:\Development\csharp\git-projects\Csharp-patika.dev\Koleksiyonlar\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.genruntimeconfig.cache
+F:\Development\csharp\git-projects\Csharp-patika.dev\Koleksiyonlar\Koleksiyonlar-Soru-1\obj\Debug\net6.0\ref\Koleksiyonlar-Soru-1.dll
